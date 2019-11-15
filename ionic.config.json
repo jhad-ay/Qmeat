@@ -1,5 +1,7 @@
 {
   "name": "Qmeat",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
