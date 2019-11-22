@@ -1,4 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap");
+
 .welcome-card img {
   max-height: 35vh;
   overflow: hidden;
+}
+
+#mainTitle {
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
+
+#mainTitle h4{
+  display: inline-block;
+  white-space:nowrap;
+}
+
+#mainTitle img {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  margin: 0auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.decoratedTitle {
+  font-family: "Bebas Neue", cursive;
+}
+
+div.slide{
+  display: block;
+  width: 100%;
+  max-height: 300px;
+  margin-bottom:  30px;
+}
+
+div.slide img {
+  width: 200px;
+  height: 200px;;
 }
